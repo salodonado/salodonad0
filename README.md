@@ -10,7 +10,7 @@
 <body>
   <!-- Encabezado -->
   <header>
-    <h1>Tu Nombre Completo</h1>
+    <h1>Salomé Donado</h1>
     <img src="avatar.jpg" alt="Tu foto o avatar" width="100">
   </header>
 
@@ -18,25 +18,25 @@
   <section id="datos-personales">
     <h2>Datos Personales</h2>
     <ul>
-      <li><strong>Fecha de nacimiento:</strong> 01/01/2000</li>
+      <li><strong>Fecha de nacimiento:</strong> 25/06/2008</li>
       <li><strong>Ciudad y país:</strong> Ciudad, País</li>
-      <li><strong>Teléfono:</strong> +123 456 789</li>
-      <li><strong>Email:</strong> <a href="mailto:tuemail@example.com">tuemail@example.com</a></li>
+      <li><strong>Teléfono:</strong> +3054633043</li>
+      <li><strong>Email:</strong> <a href="salo.donado@gmail.com">tuemail@example.com</a></li>
     </ul>
   </section>
 
   <!-- Perfil Profesional -->
   <section id="perfil">
     <h2>Perfil Profesional</h2>
-    <p>Soy un apasionado de la tecnología con habilidades en desarrollo web y diseño. Busco oportunidades para crecer profesionalmente.</p>
+    <p>Soy un apasionado de la tecnologia, tengo varios premios en construcción de robots y maquinas de alto nivel, apasionado por la ciencia..</p>
   </section>
 
   <!-- Educación -->
   <section id="educacion">
     <h2>Educación</h2>
     <ul>
-      <li><strong>Institución:</strong> Nombre de la institución</li>
-      <li><strong>Años:</strong> 2018 - 2022</li>
+      <li><strong>Institución:</strong> Robots & society</li>
+      <li><strong>Años:</strong> 2018 - 2025</li>
     </ul>
   </section>
 
@@ -45,12 +45,12 @@
     <h2>Experiencia Laboral</h2>
     <ul>
       <li>
-        <strong>Proyecto 1:</strong> Descripción breve del proyecto.
-        <br><em>Fecha: 2021 - 2022</em>
+        <strong>Proyecto 1:</strong> Creación de robots para la  casa a prueba de agua, como metodo de ayuda para el cuidado de esta.
+        <br><em>Fecha: 2018 - 2020</em>
       </li>
       <li>
-        <strong>Proyecto 2:</strong> Descripción breve del proyecto.
-        <br><em>Fecha: 2020 - 2021</em>
+        <strong>Proyecto 2:</strong> Elaboramos un robot con sensores inteligentes para el rescate de los perros en las calles que corren peligro.
+        <br><em>Fecha: 2020 - 2024</em>
       </li>
     </ul>
   </section>
