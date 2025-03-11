@@ -20,7 +20,7 @@
       <li><strong>Fecha de nacimiento:</strong> 25/06/2008</li>
       <li><strong>Ciudad y país:</strong> Ciudad, País</li>
       <li><strong>Teléfono:</strong> +3054633043</li>
-      <li><strong>Email:</strong> <a href="salo.donado@gmail.com">tuemail@example.com</a></li>
+      <li><strong>Email:</strong> <a href="@salo.donado@gmail.com">salo.donado@gmail.com</a></li>
     </ul>
   </section>
 
