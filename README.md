@@ -11,7 +11,7 @@
   <!-- Encabezado -->
   <header>
     <h1>Salomé Donado</h1>
-    <img src="avatar.jpg" alt="Tu foto o avatar" width="100">
+    <img src="avatar.jpg" alt="https://user-images.githubusercontent.com/522079/90506845-e8420580-e122-11ea-82ca-31087fc8486c.png width="100">
   </header> 
   <!-- Datos Personales -->
   <section id="datos-personales">
