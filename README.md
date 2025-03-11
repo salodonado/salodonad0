@@ -66,13 +66,13 @@
 
   <!-- Contacto -->
   <section id="contacto">
-    <h2>Contacto</h2>
+    <h2>Contacto: salome donado - 3458889676</h2>
     <form action="#" method="post">
       <label for="nombre">Nombre:</label>
       <input type="text" id="nombre" name="nombre" required>
       <br>
       <label for="email">Email:</label>
-      <input type="email" id="email" name="email" required>
+      <input type="email" id="email" name="salo.donado@gmail.com" required>
       <br>
       <label for="mensaje">Mensaje:</label>
       <textarea id="mensaje" name="mensaje" required></textarea>
